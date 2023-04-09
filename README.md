@@ -95,4 +95,3 @@ Panic key.
 Save Settings
 
 Load Settings
-# Password for ZIP ARCHIVE: 23

